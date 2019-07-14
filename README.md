@@ -1,8 +1,8 @@
 # Vaalikone-OlioOhjelmointi
 
-Show Questions and suitable candidate is previously done by another student.
+Show Questions and Found suitable candidate is previously done by another student.
 
-My Part in this Project is  create New Field for Add new Candidate and Show the current candidate in List and Delete And modify them.
+My Part in this Project is  create New Field for Add new Candidate and Show the current candidates Information in List and Delete And modify them Seperately.
 
 In this Peoject I used : 
 MVC archticture ( Model View Controller ) , Eclipse , Servlet , AppEngine ,  MySql&JPA ,JSP&Css , Java Cooding Langauage
